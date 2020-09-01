@@ -28,8 +28,7 @@ If you face any issue with the sample files, please log a bug here in GitHub.
 
 ## License
 
-Copyright (c) 2020 SAP SE or an SAP affiliate company. All rights reserved.
-This file is licensed under the SAP Sample Code License except as noted otherwise in the [LICENSE file](/Apache2.0).
+Copyright (c) 2020 SAP SE or an SAP affiliate company. All rights reserved. This file is licensed under the Apache Software License, version 2.0 except as noted otherwise in the [LICENSE file](/Apache2.0).
 
 ## Data and License
 

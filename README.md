@@ -2,9 +2,9 @@
 
 ## Description
 
-This repository contains Jupyter Notebooks files and also a CSV dataset example sample file used in the tutorial mission [Use Machine Learning and Jupyter Notebooks to Classify Service Requests and Get Solution Recommendations](link to be added when available).
+This repository contains Jupyter Notebooks files and also a CSV dataset example sample file used in the tutorial mission [Use Machine Learning to Process Service Requests](https://developers.sap.com/mission.cp-aibus-sti-service-requests.html#pathItem_1).
 
-This sample uses the commercial SAP product Service Ticket Intelligence that is part of the SAP AI Business Services product line. For details on how to use these sample files, see the tutorial mission [Use Machine Learning and Jupyter Notebooks to Classify Service Requests and Get Solution Recommendations](link to be added when available).
+This sample uses the commercial SAP product Service Ticket Intelligence that is part of the SAP AI Business Services product line. For details on how to use these sample files, see the tutorial mission [Use Machine Learning to Process Service Requests](https://developers.sap.com/mission.cp-aibus-sti-service-requests.html#pathItem_1).
 
 ## Requirements
 
@@ -20,7 +20,7 @@ Download these files directly from GitHub as a [ZIP file](https://github.com/SAP
   
 ## Configuration
 
-For configuration instructions, see the tutorial mission [Use Machine Learning and Jupyter Notebooks to Classify Service Requests and Get Solution Recommendations](link to be added when available).
+For configuration instructions, see the tutorial mission [Use Machine Learning to Process Service Requests](https://developers.sap.com/mission.cp-aibus-sti-service-requests.html#pathItem_1).
 
 ## How to obtain support:
 

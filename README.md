@@ -1,3 +1,5 @@
+[![REUSE status](https://api.reuse.software/badge/github.com/SAP-samples/service-ticket-intelligence-jupyter-notebook)](https://api.reuse.software/info/github.com/SAP-samples/service-ticket-intelligence-jupyter-notebook)
+
 # Service Ticket Intelligence - Jupyter Notebooks and Dataset Example Sample Files
 
 ## Description
@@ -28,7 +30,7 @@ If you face any issue with the sample files, please log a bug here in GitHub.
 
 ## License
 
-Copyright (c) 2020 SAP SE or an SAP affiliate company. All rights reserved. This project is licensed under the Apache Software License, version 2.0 except as noted otherwise in the [LICENSE file](/Apache2.0).
+Copyright (c) 2020 SAP SE or an SAP affiliate company. All rights reserved. This project is licensed under the Apache Software License, version 2.0 except as noted otherwise in the [LICENSE file](/LICENSES/Apache-2.0.txt).
 
 ## Data and License
 

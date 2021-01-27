@@ -10,7 +10,7 @@ This sample uses the commercial SAP product Service Ticket Intelligence that is 
 
 ## Requirements
 
-- [Service Ticket Intelligence](https://help.sap.com/stint) ([SAP AI Business Services](https://help.sap.com/aibus) and [SAP Cloud Platform](https://help.sap.com/viewer/product/CP/Cloud/en-US) commercial service) or a [Free Trial Account on SAP Cloud Platform](https://developers.sap.com/tutorials/hcp-create-trial-account.html) 
+- [Service Ticket Intelligence](https://help.sap.com/stint) ([SAP AI Business Services](https://help.sap.com/aibus) and [SAP Business Technology Platform (SAP BTP)](https://help.sap.com/viewer/product/CP/Cloud/en-US) commercial service) or a [Free Trial Account on SAP BTP](https://developers.sap.com/tutorials/hcp-create-trial-account.html) 
 - [Jupyter Notebook](https://www.dataquest.io/blog/jupyter-notebook-tutorial/)
 - [Ananconda Python (version 3.7)](https://www.anaconda.com/products/individual)
 

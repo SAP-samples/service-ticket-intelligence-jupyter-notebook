@@ -40,7 +40,11 @@ def get_access_token(connection: STIConnectionDetails, print_message=True):
     """
     if token_cache.get("sti_access_token"):
         token = token_cache["sti_access_token"]
-        jwt_token = jwt.decode(token, verify=False, algorithms="RS256")
+        
+        try:
+            jwt_token = jwt.decode(token, options={"verify_signature": False})       
+        except Exception as e:
+            jwt_token = jwt.decode(token, verify=False, algorithms="RS256")
         if int(time.time()) < jwt_token["exp"]:
             if print_message:
                 print("Returning token from cache")
@@ -63,7 +67,11 @@ def get_access_token(connection: STIConnectionDetails, print_message=True):
 
     access_token = response.json().get("access_token")
     token_cache["sti_access_token"] = access_token
-    token_expiry = jwt.decode(access_token, verify=False, algorithms="RS256")["exp"]
+
+    try:
+        token_expiry = jwt.decode(access_token, options={"verify_signature": False})["exp"]        
+    except Exception as e:
+        token_expiry = jwt.decode(access_token, verify=False, algorithms="RS256")["exp"]
     token_expiry = time.strftime("%Y-%m-%d %H:%M:%S", time.localtime(token_expiry))
     if print_message:
         print(f"New token expires at {token_expiry}")

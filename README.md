@@ -10,7 +10,7 @@ This sample uses one of the services of the commercial SAP product line SAP AI S
 
 ## Requirements
 
-- [Service Ticket Intelligence](https://help.sap.com/stint) ([SAP AI Services](https://help.sap.com/ais) and [SAP Business Technology Platform (SAP BTP)](https://help.sap.com/docs/btp) commercial service) or a [Get a Free Account on SAP BTP Trial](https://developers.sap.com/tutorials/hcp-create-trial-account.html) 
+- [Service Ticket Intelligence](https://help.sap.com/stint) ([SAP AI Services](https://help.sap.com/ais) and [SAP Business Technology Platform (SAP BTP)](https://help.sap.com/docs/btp) commercial service) or a [Free Account on SAP BTP Trial](https://developers.sap.com/tutorials/hcp-create-trial-account.html) 
 - [Jupyter Notebook](https://www.dataquest.io/blog/jupyter-notebook-tutorial/)
 - [Ananconda Python (version 3.7)](https://www.anaconda.com/products/individual)
 

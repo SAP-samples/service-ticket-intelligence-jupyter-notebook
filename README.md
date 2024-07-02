@@ -6,11 +6,11 @@
 
 This repository contains Jupyter Notebooks files and also a CSV dataset example sample file used in the tutorial mission [Use Machine Learning to Process Service Requests](https://developers.sap.com/mission.cp-aibus-sti-service-requests.html#pathItem_1).
 
-This sample uses one of the services of the commercial SAP product line SAP AI Business Services: Service Ticket Intelligence. For details on how to use these sample files, see the tutorial mission [Use Machine Learning to Process Service Requests](https://developers.sap.com/mission.cp-aibus-sti-service-requests.html#pathItem_1).
+This sample uses one of the services of the commercial SAP product line SAP AI Services: Service Ticket Intelligence. For details on how to use these sample files, see the tutorial mission [Use Machine Learning to Process Service Requests](https://developers.sap.com/mission.cp-aibus-sti-service-requests.html#pathItem_1).
 
 ## Requirements
 
-- [Service Ticket Intelligence](https://help.sap.com/stint) ([SAP AI Business Services](https://help.sap.com/aibus) and [SAP Business Technology Platform (SAP BTP)](https://help.sap.com/viewer/product/CP/Cloud/en-US) commercial service) or a [Free Trial Account on SAP BTP](https://developers.sap.com/tutorials/hcp-create-trial-account.html) 
+- [Service Ticket Intelligence](https://help.sap.com/stint) ([SAP AI Services](https://help.sap.com/ais) and [SAP Business Technology Platform (SAP BTP)](https://help.sap.com/docs/btp) commercial service) or a [Get a Free Account on SAP BTP Trial](https://developers.sap.com/tutorials/hcp-create-trial-account.html) 
 - [Jupyter Notebook](https://www.dataquest.io/blog/jupyter-notebook-tutorial/)
 - [Ananconda Python (version 3.7)](https://www.anaconda.com/products/individual)
 
@@ -30,7 +30,7 @@ If you face any issue with the sample files, please log a bug here in GitHub.
 
 ## License
 
-Copyright (c) 2020 SAP SE or an SAP affiliate company. All rights reserved. This project is licensed under the Apache Software License, version 2.0 except as noted otherwise in the [LICENSE file](/LICENSES/Apache-2.0.txt).
+Copyright (c) 2024 SAP SE or an SAP affiliate company. All rights reserved. This project is licensed under the Apache Software License, version 2.0 except as noted otherwise in the [LICENSE file](/LICENSES/Apache-2.0.txt).
 
 ## Data and License
 
